@@ -1,4 +1,3 @@
-first gt project
-second
-thrd
+echo "hello world"
+echo "edit handson"
 
